@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    height: 200%;
+    text-align: center;
+    background-color: ivory;
+}
+#welcome{
+    color: gray;
+}
+#follow{
+    color: cyan;
+    
+}
+#des_g{
+    font-family: 'Montserrat', sans-serif;
+}
